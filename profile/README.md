@@ -17,10 +17,6 @@
 
 <br/>
 
-<p align="center">
-  <em>[ 🎥 Insert 60-second "Holy Shit" Demo Video Here ]</em>
-</p>
-
 <br/>
 
 **BiamOS is not just an API wrapper.** It is a proactive, self-hosted command center that redefines how you interact with the web. By combining a native Chromium webview with a local AI middleware pipeline, BiamOS reads your context, bypasses complex API authentication via **Ghost-Auth**, and generates a dynamic, modular UI dashboard in real-time. 
