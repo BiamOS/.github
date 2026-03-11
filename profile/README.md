@@ -29,10 +29,13 @@ Hi, I'm Gabor, an Automation Engineer based in Vienna. 👋
 
 I built BiamOS out of sheer frustration. I was tired of the constant context-switching between dozens of web apps, managing endless API keys, and dealing with AI chatbots that are completely blind to my actual workflow. 
 
-I didn't just want another AI wrapper — I wanted an intelligent operating layer that **reads my context** and acts proactively. BiamOS is my vision brought to life. It's a radical new approach to how we should interact with the web and our daily tools.
+I didn't just want another AI wrapper — I wanted an intelligent operating layer that **reads my context** and acts proactively. BiamOS is my vision brought to life. 
+
+**⭐ Support a Solo Developer**
+Building this entire architecture alone took countless nights of coding. If you believe that the future of desktop OS should be open, local-first, and intent-driven, **please consider dropping a ⭐️ Star on this repository!** It gives this project the visibility it needs to grow.
 
 **🚧 Current State: Proof of Concept / Early Prototype**
-*This is currently a highly active, experimental prototype. It is rough around the edges and things might break. I am open-sourcing this concept early because I believe the future of desktop operating systems should be open, local-first, and intent-driven. If you share this vision, let's build it together.*
+*This is an experimental prototype. It is rough around the edges and things might break. I am open-sourcing this concept early because I want to build a community around this idea. If you share this vision, fork it, build on it, and let's change how we interact with the web.*
 
 ---
 
