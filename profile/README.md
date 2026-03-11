@@ -44,15 +44,17 @@
 
 Hi, I'm Gabor, an Automation Engineer based in Vienna. 👋 
 
-I've always been driven by the vision of the *next* paradigm in computing. For years, the ideas were there, but the technology wasn't fast enough. With the recent explosion of LLMs, that barrier has vanished. What used to take entire engineering teams can now be built at lightspeed.
+I built BiamOS because the current digital workspace is broken. I was tired of the constant context-switching, managing endless API keys, and dealing with AI chatbots that are completely blind to my actual workflow. 
 
-I built BiamOS because the current digital workspace is broken. I didn't just want another AI chatbot trapped in a browser tab. I wanted a **Single Source of Truth** — an intelligent, proactive operating layer where I can manage my entire digital life, and where AI works seamlessly *alongside* me. An OS that reads my context, acts autonomously, and unifies my workflow. BiamOS is my blueprint for the future of human-computer interaction.
+I didn't just want another AI wrapper — I wanted a **Single Source of Truth**. An intelligent operating layer that reads my context, acts proactively, and unifies everything I do. With the recent explosion of local LLMs, I realized I could finally build the exact system I've been dreaming of.
 
-**⭐ Support a Solo Visionary**
-Building this entire architecture alone took countless nights of intense engineering. If you believe that the future of the desktop is intent-driven, context-aware, and built on a single source of truth, **please drop a ⭐️ Star on this repository!** It signals to the industry that this is the right path.
+**To be completely honest:** My head is still buzzing with ideas. I have a massive backlog of concepts on how to push this architecture even further and make the workflows ridiculously efficient. But instead of building in secret for another six months, I really wanted to get this first Alpha out to you guys right now. I want to see what you think.
 
-**🚧 Current State: Proof of Concept / Early Prototype**
-*This is an experimental, living prototype. It’s raw, it's bold, and things might break. I am open-sourcing this concept early because the race to build the ultimate AI-OS has just started. I want to build a community around this radical idea. If you share this vision, fork it, build on it, and let's change how we interact with the web.*
+**⭐ Support a Solo Developer**
+Building this entire architecture alone took countless nights of intense engineering. If you believe that the future of the desktop is intent-driven, open, and built on a single source of truth, **please consider dropping a ⭐️ Star on this repository!** It gives this project the visibility it needs.
+
+**🚧 Current State: Early Alpha**
+*This is an experimental, living prototype. It’s raw, it's bold, and things might break. If you share this vision, fork it, build on it, and contribute back. For commercial inquiries or custom licensing, feel free to reach out.*
 
 ---
 
