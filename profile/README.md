@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/BiamOS-v1.0.0-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="version"/>
+  <img src="https://img.shields.io/badge/Status-Early_Prototype-FF6B35?style=for-the-badge" alt="status"/>
   <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="electron"/>
   <img src="https://img.shields.io/badge/Local_First-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
   <img src="https://img.shields.io/badge/License-AGPL--3.0-green?style=for-the-badge" alt="license"/>
@@ -12,16 +12,27 @@
 
 <p align="center">
   <strong>Base for Intent & AI Middleware</strong><br/>
-  The AI-Native Workspace OS for Windows, macOS, and Linux.
+  An experimental AI-Native Workspace OS for Windows, macOS, and Linux.
 </p>
 
 <br/>
 
-<br/>
-
-**BiamOS is not just an API wrapper.** It is a proactive, self-hosted command center that redefines how you interact with the web. By combining a native Chromium webview with a local AI middleware pipeline, BiamOS reads your context, bypasses complex API authentication via **Ghost-Auth**, and generates a dynamic, modular UI dashboard in real-time. 
+**BiamOS is not just an API wrapper.** It is a proactive, self-hosted command center concept that redefines how you interact with the web. By combining a native Chromium webview with a local AI middleware pipeline, BiamOS reads your context, bypasses complex API authentication via **Ghost-Auth**, and generates a dynamic, modular UI dashboard in real-time. 
 
 > *Don't give the AI context. Let the AI read your context securely.*
+
+---
+
+### 📝 A Note from the Creator
+
+Hi, I'm Gabor, an Automation Engineer based in Vienna. 👋 
+
+I built BiamOS out of sheer frustration. I was tired of the constant context-switching between dozens of web apps, managing endless API keys, and dealing with AI chatbots that are completely blind to my actual workflow. 
+
+I didn't just want another AI wrapper — I wanted an intelligent operating layer that **reads my context** and acts proactively. BiamOS is my vision brought to life. It's a radical new approach to how we should interact with the web and our daily tools.
+
+**🚧 Current State: Proof of Concept / Early Prototype**
+*This is currently a highly active, experimental prototype. It is rough around the edges and things might break. I am open-sourcing this concept early because I believe the future of desktop operating systems should be open, local-first, and intent-driven. If you share this vision, let's build it together.*
 
 ---
 
