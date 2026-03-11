@@ -40,19 +40,19 @@
 </p>
 <br/>
 
-### 📝 A Note from the Creator
+### 📝 A Note from the Creator: Building the Future
 
 Hi, I'm Gabor, an Automation Engineer based in Vienna. 👋 
 
-I built BiamOS out of sheer frustration. I was tired of the constant context-switching between dozens of web apps, managing endless API keys, and dealing with AI chatbots that are completely blind to my actual workflow. 
+I've always been driven by the vision of the *next* paradigm in computing. For years, the ideas were there, but the technology wasn't fast enough. With the recent explosion of LLMs, that barrier has vanished. What used to take entire engineering teams can now be built at lightspeed.
 
-I didn't just want another AI wrapper — I wanted an intelligent operating layer that **reads my context** and acts proactively. BiamOS is my vision brought to life. 
+I built BiamOS because the current digital workspace is broken. I didn't just want another AI chatbot trapped in a browser tab. I wanted a **Single Source of Truth** — an intelligent, proactive operating layer where I can manage my entire digital life, and where AI works seamlessly *alongside* me. An OS that reads my context, acts autonomously, and unifies my workflow. BiamOS is my blueprint for the future of human-computer interaction.
 
-**⭐ Support a Solo Developer**
-Building this entire architecture alone took countless nights of coding. If you believe that the future of desktop OS should be open, local-first, and intent-driven, **please consider dropping a ⭐️ Star on this repository!** It gives this project the visibility it needs to grow.
+**⭐ Support a Solo Visionary**
+Building this entire architecture alone took countless nights of intense engineering. If you believe that the future of the desktop is intent-driven, context-aware, and built on a single source of truth, **please drop a ⭐️ Star on this repository!** It signals to the industry that this is the right path.
 
 **🚧 Current State: Proof of Concept / Early Prototype**
-*This is an experimental prototype. It is rough around the edges and things might break. I am open-sourcing this concept early because I want to build a community around this idea. If you share this vision, fork it, build on it, and let's change how we interact with the web.*
+*This is an experimental, living prototype. It’s raw, it's bold, and things might break. I am open-sourcing this concept early because the race to build the ultimate AI-OS has just started. I want to build a community around this radical idea. If you share this vision, fork it, build on it, and let's change how we interact with the web.*
 
 ---
 
