@@ -23,6 +23,23 @@
 
 ---
 
+<p align="center">
+  <strong>Base for Intent & AI Middleware</strong><br/>
+  An experimental AI-Native Workspace OS for Windows, macOS, and Linux.
+</p>
+
+<p align="center">
+  <br/>
+  <b><a href="https://github.com/BiamOS/BiamOS">👉 VIEW THE MAIN REPOSITORY (CODE & INSTALL) 👈</a></b>
+  <br/><br/>
+  <a href="#-the-paradigm-shift-zero-oauth-ghost-integrations">Ghost-Auth</a> • 
+  <a href="#-dual-agent-architecture">Dual-Agent</a> • 
+  <a href="#-features-that-redefine-the-desktop">Features</a> • 
+  <a href="#-the-tech-stack">Architecture</a> • 
+  <a href="https://github.com/BiamOS/BiamOS#license">License</a>
+</p>
+<br/>
+
 ### 📝 A Note from the Creator
 
 Hi, I'm Gabor, an Automation Engineer based in Vienna. 👋 
