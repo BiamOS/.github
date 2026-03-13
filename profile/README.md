@@ -15,7 +15,7 @@
   An experimental AI-Native Workspace OS for Windows, macOS, and Linux.
 </p>
 <p align="center">
-  <strong>[Base for Intent & AI Middleware](https://www.youtube.com/watch?v=QOKNlAsJjyw)</strong><br/>
+  <strong>DEMO VIDEO: https://www.youtube.com/watch?v=QOKNlAsJjyw </strong><br/>
 </p>
 
 <br/>
